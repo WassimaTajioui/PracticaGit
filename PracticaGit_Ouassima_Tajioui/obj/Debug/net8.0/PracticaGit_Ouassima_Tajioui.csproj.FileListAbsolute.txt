@@ -1,0 +1,14 @@
+C:\Users\Wassi\source\repos\PracticaGit_Ouassima_Tajioui\PracticaGit_Ouassima_Tajioui\bin\Debug\net8.0\PracticaGit_Ouassima_Tajioui.exe
+C:\Users\Wassi\source\repos\PracticaGit_Ouassima_Tajioui\PracticaGit_Ouassima_Tajioui\bin\Debug\net8.0\PracticaGit_Ouassima_Tajioui.deps.json
+C:\Users\Wassi\source\repos\PracticaGit_Ouassima_Tajioui\PracticaGit_Ouassima_Tajioui\bin\Debug\net8.0\PracticaGit_Ouassima_Tajioui.runtimeconfig.json
+C:\Users\Wassi\source\repos\PracticaGit_Ouassima_Tajioui\PracticaGit_Ouassima_Tajioui\bin\Debug\net8.0\PracticaGit_Ouassima_Tajioui.dll
+C:\Users\Wassi\source\repos\PracticaGit_Ouassima_Tajioui\PracticaGit_Ouassima_Tajioui\bin\Debug\net8.0\PracticaGit_Ouassima_Tajioui.pdb
+C:\Users\Wassi\source\repos\PracticaGit_Ouassima_Tajioui\PracticaGit_Ouassima_Tajioui\obj\Debug\net8.0\PracticaGit_Ouassima_Tajioui.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wassi\source\repos\PracticaGit_Ouassima_Tajioui\PracticaGit_Ouassima_Tajioui\obj\Debug\net8.0\PracticaGit_Ouassima_Tajioui.AssemblyInfoInputs.cache
+C:\Users\Wassi\source\repos\PracticaGit_Ouassima_Tajioui\PracticaGit_Ouassima_Tajioui\obj\Debug\net8.0\PracticaGit_Ouassima_Tajioui.AssemblyInfo.cs
+C:\Users\Wassi\source\repos\PracticaGit_Ouassima_Tajioui\PracticaGit_Ouassima_Tajioui\obj\Debug\net8.0\PracticaGit_Ouassima_Tajioui.csproj.CoreCompileInputs.cache
+C:\Users\Wassi\source\repos\PracticaGit_Ouassima_Tajioui\PracticaGit_Ouassima_Tajioui\obj\Debug\net8.0\PracticaGit_Ouassima_Tajioui.dll
+C:\Users\Wassi\source\repos\PracticaGit_Ouassima_Tajioui\PracticaGit_Ouassima_Tajioui\obj\Debug\net8.0\refint\PracticaGit_Ouassima_Tajioui.dll
+C:\Users\Wassi\source\repos\PracticaGit_Ouassima_Tajioui\PracticaGit_Ouassima_Tajioui\obj\Debug\net8.0\PracticaGit_Ouassima_Tajioui.pdb
+C:\Users\Wassi\source\repos\PracticaGit_Ouassima_Tajioui\PracticaGit_Ouassima_Tajioui\obj\Debug\net8.0\PracticaGit_Ouassima_Tajioui.genruntimeconfig.cache
+C:\Users\Wassi\source\repos\PracticaGit_Ouassima_Tajioui\PracticaGit_Ouassima_Tajioui\obj\Debug\net8.0\ref\PracticaGit_Ouassima_Tajioui.dll
