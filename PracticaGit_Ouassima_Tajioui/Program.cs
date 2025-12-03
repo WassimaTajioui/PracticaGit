@@ -4,7 +4,7 @@
     {
         static void Main(string[] args)
         {
-            Persona persona = new Persona("Jaume");
+            Persona persona = new Persona("Jaume", 30);
             Salutador salutador = new Salutador();
 
             salutador.Saluda(persona);
